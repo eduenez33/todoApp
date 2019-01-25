@@ -1,0 +1,19 @@
+{
+  "name": "todoapp",
+  "version": "1.0.0",
+  "description": "To-do Application",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eduenez33/todoApp.git"
+  },
+  "author": "Edwin Duenez",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/eduenez33/todoApp/issues"
+  },
+  "homepage": "https://github.com/eduenez33/todoApp#readme"
+}
